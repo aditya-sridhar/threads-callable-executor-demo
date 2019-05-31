@@ -2,8 +2,7 @@
 
 This code is part of a blog post.
 
-The link to the blog post is given here.
-[#](#)
+[Click Here](https://adityasridhar.com/posts/how-to-use-java-executor-framework-for-multithreading) to read the blog post.
 
 Read the blog post to make the best use of this repo :)
 
